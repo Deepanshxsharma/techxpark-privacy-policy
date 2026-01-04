@@ -49,5 +49,5 @@ TechXPark is not intended for children under 13.
 We may update this Privacy Policy from time to time.
 
 ## Contact Us
-Email: support@techxpark.com  
+Email: info@techxpertindia.in
 App Name: TechXPark
